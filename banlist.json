@@ -5,5 +5,12 @@
     "reason": "Spam e propaganda não autorizada",
     "bannedBy": "987654321098765432",
     "bannedAt": "2025-04-03T12:30:45.000Z"
+  },
+  "1305187712755695707": {
+    "userId": "1305187712755695707",
+    "username": "isaac070368",
+    "reason": "test",
+    "bannedBy": "896604349311115304",
+    "bannedAt": "2025-04-04T03:30:02.141Z"
   }
 }
